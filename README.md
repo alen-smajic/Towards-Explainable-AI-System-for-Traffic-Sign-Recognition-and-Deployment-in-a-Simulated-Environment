@@ -5,9 +5,9 @@
 
 **Instructors:**
 * [Prof. Dr. Alexander Mehler](https://www.texttechnologylab.org/team/alexander-mehler/), email: mehler@em.uni-frankfurt.de
-* [Giuseppe Abrami](https://www.texttechnologylab.org/team/giuseppe-abrami/), email: abrami@em.uni-frankfurt.de
 * [Prof. Dr. Visvanathan Ramesh](http://www.ccc.cs.uni-frankfurt.de/people/), email: V.Ramesh@em.uni-frankfurt.de
 * [Dr. Michael Rammensee](http://www.ccc.cs.uni-frankfurt.de/michaelrammensee/), email: M.Rammensee@em.uni-frankfurt.de
+* [Giuseppe Abrami](https://www.texttechnologylab.org/team/giuseppe-abrami/), email: abrami@em.uni-frankfurt.de
 
 **Institutions:**
   * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
@@ -19,6 +19,7 @@
 * Alen Smajic
   
 ## Project Description ##
+The project is still in development.
 
 ## Publications ##
 
