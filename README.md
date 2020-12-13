@@ -15,11 +15,10 @@
   * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
   * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
   
-**Project description:**
+## Project Description ##
 
 ## Publications ##
 
-  
 ## Tools ## 
 * Blender
 * Unity
