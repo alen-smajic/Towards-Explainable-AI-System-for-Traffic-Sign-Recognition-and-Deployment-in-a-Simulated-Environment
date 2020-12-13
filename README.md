@@ -6,3 +6,22 @@
 **Project team:**
 * Pascal Fischer
 * Alen Smajic
+
+**Instructors:**
+* [Prof. Dr. Alexander Mehler](https://www.texttechnologylab.org/team/alexander-mehler/), email: mehler@em.uni-frankfurt.de
+* [Giuseppe Abrami](https://www.texttechnologylab.org/team/giuseppe-abrami/), email: abrami@em.uni-frankfurt.de
+
+**Institutions:**
+  * **[Goethe University](http://www.informatik.uni-frankfurt.de/index.php/en/)**
+  * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
+  
+**Project description:**
+
+## Publications ##
+
+  
+## Tools ## 
+* Blender
+* Unity
+
+## Results ##
