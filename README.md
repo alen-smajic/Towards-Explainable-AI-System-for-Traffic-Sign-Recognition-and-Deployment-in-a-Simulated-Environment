@@ -20,6 +20,7 @@
   
 ## Project Description ##
 The project is still in development.
+<img align="left" width="390" height="" src="Project%20proposal/OPM.png">
 
 ## Publications ##
 
