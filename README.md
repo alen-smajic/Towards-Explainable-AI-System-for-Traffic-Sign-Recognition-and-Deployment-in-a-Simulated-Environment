@@ -14,7 +14,7 @@
   * **[TTLab - Text Technology Lab](https://www.texttechnologylab.org/)**
   * **[AISEL - AI Systems Engineering Lab](http://www.ccc.cs.uni-frankfurt.de/)**
   
-**Project team:**
+**Project team (A-Z):**
 * Pascal Fischer
 * Alen Smajic
   
