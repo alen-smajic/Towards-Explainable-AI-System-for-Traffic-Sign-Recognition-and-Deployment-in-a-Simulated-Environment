@@ -14,11 +14,11 @@
 **Project team (A-Z):**
 * Pascal Fischer
 * Alen Smajic
+
+## Publications ##
   
 ## Project Description ##
 The project is still in development.
-
-## Publications ##
 
 ## Tools ## 
 
