@@ -19,6 +19,21 @@
   
 ## Project Description ##
 <img align="center" width="1000" height="" src="Result%20images/TItle%20page.png">
+
+Recent advances in Machine Learning are pushing the boundaries of real world AI applications
+and are becoming more and more integrated in our daily lives. As research
+advances, the long-term goal of autonomous driving becomes rather reality than fiction,
+but brings with it numerous challenges for our society and the system engineers.
+Topics like ethical AI, privacy and transparency are becoming increasingly relevant
+and have to be considered when designing AI systems with real world applications. In
+this project we present our first attempt at tackling the problem of traffic sign recognition
+by taking a systems engineering approach. We focus on the development of an
+explainable and transparent system with the use of concept whitening layers inside our
+deep learning models, which allow us to train our models with handcrafted features
+and make predictions based on predefined concepts. We also introduce a simulation
+environment for traffic sign recognition, which can be used for model deployment,
+performance benchmarking, data generation and further domain model research.
+
 The project is still in development.
 
 ## Tools ## 
