@@ -18,7 +18,7 @@
 ## Publications ##
   
 ## Project Description ##
-<img align="center" width="1000" height="" src="Result%20images/Title%20page.png">
+<img align="center" width="1000" height="" src="Result%20images/Tltle%20page.png">
 The project is still in development.
 
 ## Tools ## 
