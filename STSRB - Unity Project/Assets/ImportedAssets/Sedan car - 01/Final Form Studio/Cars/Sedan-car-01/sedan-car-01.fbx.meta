@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: d1e985c0fb2658c4bb66c0dd53fe253c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: brake_lights
+    100004: caliper-fl
+    100006: caliper-fr
+    100008: caliper-rl
+    100010: caliper-rr
+    100012: disk-fl
+    100014: disk-fr
+    100016: disk-rl
+    100018: disk-rr
+    100020: leds_f
+    100022: leds_r
+    100024: lights
+    100026: rim-fl
+    100028: rim-fr
+    100030: rim-rl
+    100032: rim-rr
+    100034: //RootNode
+    100036: tire1-fl
+    100038: tire1-fr
+    100040: tire1-rl
+    100042: tire1-rr
+    100044: turning_light_l
+    100046: turning_light_r
+    400000: body
+    400002: brake_lights
+    400004: caliper-fl
+    400006: caliper-fr
+    400008: caliper-rl
+    400010: caliper-rr
+    400012: disk-fl
+    400014: disk-fr
+    400016: disk-rl
+    400018: disk-rr
+    400020: leds_f
+    400022: leds_r
+    400024: lights
+    400026: rim-fl
+    400028: rim-fr
+    400030: rim-rl
+    400032: rim-rr
+    400034: //RootNode
+    400036: tire1-fl
+    400038: tire1-fr
+    400040: tire1-rl
+    400042: tire1-rr
+    400044: turning_light_l
+    400046: turning_light_r
+    2100000: body
+    2100002: parts
+    2100004: hl_glass
+    2100006: mirrors
+    2100008: windows
+    2100010: leds_f
+    2100012: orange_lights
+    2100014: leds_rear
+    2100016: rim
+    2100018: tire-brakes
+    2300000: body
+    2300002: brake_lights
+    2300004: caliper-fl
+    2300006: caliper-fr
+    2300008: caliper-rl
+    2300010: caliper-rr
+    2300012: disk-fl
+    2300014: disk-fr
+    2300016: disk-rl
+    2300018: disk-rr
+    2300020: leds_f
+    2300022: leds_r
+    2300024: lights
+    2300026: rim-fl
+    2300028: rim-fr
+    2300030: rim-rl
+    2300032: rim-rr
+    2300034: tire1-fl
+    2300036: tire1-fr
+    2300038: tire1-rl
+    2300040: tire1-rr
+    2300042: turning_light_l
+    2300044: turning_light_r
+    3300000: body
+    3300002: brake_lights
+    3300004: caliper-fl
+    3300006: caliper-fr
+    3300008: caliper-rl
+    3300010: caliper-rr
+    3300012: disk-fl
+    3300014: disk-fr
+    3300016: disk-rl
+    3300018: disk-rr
+    3300020: leds_f
+    3300022: leds_r
+    3300024: lights
+    3300026: rim-fl
+    3300028: rim-fr
+    3300030: rim-rl
+    3300032: rim-rr
+    3300034: tire1-fl
+    3300036: tire1-fr
+    3300038: tire1-rl
+    3300040: tire1-rr
+    3300042: turning_light_l
+    3300044: turning_light_r
+    4300000: body
+    4300002: leds_f
+    4300004: turning_light_l
+    4300006: leds_r
+    4300008: turning_light_r
+    4300010: lights
+    4300012: brake_lights
+    4300014: rim-fl
+    4300016: disk-fl
+    4300018: caliper-fl
+    4300020: tire1-fl
+    4300022: caliper-rl
+    4300024: disk-rl
+    4300026: rim-rl
+    4300028: tire1-rl
+    4300030: caliper-rr
+    4300032: caliper-fr
+    4300034: disk-rr
+    4300036: disk-fr
+    4300038: rim-rr
+    4300040: rim-fr
+    4300042: tire1-rr
+    4300044: tire1-fr
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

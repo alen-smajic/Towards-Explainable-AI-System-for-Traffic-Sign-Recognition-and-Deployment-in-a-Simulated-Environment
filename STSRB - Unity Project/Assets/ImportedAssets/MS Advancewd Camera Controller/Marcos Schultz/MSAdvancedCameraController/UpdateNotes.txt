@@ -1,0 +1,127 @@
+...............[Version 1.0.0]...............
+- New Asset
+.............................................
+
+
+
+...............[Version 2.1.0]...............
+- New 3D models
+- Performance improvements
+- Change in classes. Now the camera settings are separate, each in its class, making editing the properties easier.
+- New camera modes and new configuration settings.
+.............................................
+
+
+
+...............[Version 2.2.0]...............
+- Now you can select whether you want to rotate the camera all the time or if you want to rotate it only when you click any specific key.
+.............................................
+
+
+
+...............[Version 2.3.0]...............
+- It is now possible to decide whether the cameras will bypass the colliders or detect them through Raycast.
+- Now you can adjust the maximum and minimum angles for the 'orbital' and 'orbitalThatsFollows' camera.
+.............................................
+
+
+
+...............[Version 2.4.0]...............
+- Now it is possible to zoom in the cameras 'FirstPerson' and 'ETS_Style Camera'
+.............................................
+
+
+
+...............[Version 2.5.0]...............
+- It is now possible to set whether the camera control 'OrbitalThatFollows' will be restarted via a timer or via an input.
+.............................................
+
+
+
+...............[Version 2.6.0]...............
+- Bug fixed in the orbital camera. Now it starts at the correct place where it was set by the player.
+.............................................
+
+
+
+...............[Version 2.7.0]...............
+- A new camera style has been added 'FlyCamera'.
+- Some bugs have been fixed in relation to the exchange of cameras.
+- All images in the asset were converted to .PNG format.
+- All images containing the engine logo were removed from the asset at the request of the Unity Asset Store team.
+.............................................
+
+
+
+...............[Version 2.7.5]...............
+- Some bugs have been fixed regarding the filiation of the cameras.
+- It is now possible to set a target for the cameras to follow, making it possible to link the controller code to any object in the game.
+- Improvements were made in relation to the 'transform.parent' of the cameras. Now all the objects generated during the game to control the cameras are organized into a single parent object, to make the hierarchy cleaner.
+- The documentation has been updated.
+.............................................
+
+
+
+...............[Version 2.7.7]...............
+- Bugs corrected in relation to the initial rotation of the orbital camera.
+- Now it is possible to select in which function the camera movement will be processed (Update, FixedUpdate, LateUpdate).
+.............................................
+
+
+
+...............[Version 2.7.9]...............
+- Several errors were corrected in relation to the 'orbital' and 'orbitalThatFollows' cameras.
+- The code has been improved to achieve a performance gain.
+- Redundant pieces of code have been removed.
+.............................................
+
+
+
+...............[Version 2.8.5]...............
+- Now you can enable an option that allows you to zoom in and out of 'FollowPlayer' cameras.
+- Now the speed with which the 'FollowPlayer' type cameras move is affected by the distance from the player.
+- Several improvements have been made to the component interface for ease of use.
+- A bug has been fixed in the 'rotateWhenClick' option of the 'OrbitalThatFollows' style cameras. Now the code correctly obeys the commands.
+- An improvement was made on 'OrbitalThatFollows' style cameras. Now the transition between follow and orbit is done in a precise and smooth way.
+- How inputs are managed by code has been improved to facilitate the use of external inputs.
+- Hidden variables were added to the code, allowing to manage the inputs through UI buttons. They will be used in a future upgrade, where buttons for mobile will be added.
+.............................................
+
+
+
+...............[Version 2.9.0]...............
+- A great update was made! Now a mobile controller is already integrated into the asset. This allows quick and easy integration of the camera controller into mobile devices.
+- Some cameras have gained new variables, which allow you to invert the input of the X and Y axes.
+.............................................
+
+
+
+...............[Version 2.9.1]...............
+- Fix a small bug that previously prevented the use of the controls for Mobile.
+.............................................
+
+
+
+...............[Version 2.9.2]...............
+- The OnValidate function has been implemented to correct problems when creating new arrays.
+- The names of some classes have been changed to avoid conflict with other codes and eliminate the need for a custom namespace.
+- The documentation has been updated.
+.............................................
+
+
+
+...............[Version 2.9.3]...............
+- Updated to work with Unity 2018.1.9f2 or higher for compatibility reasons.
+- A null class check has been added to the code to prevent null reference errors when executing the OnValidate void.
+.............................................
+
+
+
+...............[Version 2.9.8]...............
+- Updated to work with Unity 2018.4.23f1 or higher for compatibility reasons.
+- New checks were added to OnValidate, to avoid errors.
+- A new camera style has been added to the system (Plane X Z)
+- It is now possible to define the player's starting camera, if more than one camera style is being used.
+- The documentation has been updated.
+- A small bug has been fixed regarding Mobile Inputs.
+.............................................
