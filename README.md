@@ -16,6 +16,7 @@
 * Alen Smajic
 
 ## Publications ##
+ * [ResearchGate](https://www.researchgate.net/publication/350975491_Towards_Explainable_AI_Systems_for_Traffic_Sign_Recognition_and_Deployment_in_a_Simulated_Environment)
   
 ## Project Description ##
 <img align="center" width="1000" height="" src="Result%20images/Title%20page.png">
