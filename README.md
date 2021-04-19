@@ -18,7 +18,7 @@
 ## Publications ##
   
 ## Project Description ##
-<img align="center" width="1000" height="" src="Result%20images/TItle%20page.png">
+<img align="center" width="1000" height="" src="Result%20images/Title%20page.png">
 
 Recent advances in Machine Learning are pushing the boundaries of real world AI applications
 and are becoming more and more integrated in our daily lives. As research
