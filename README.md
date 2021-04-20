@@ -74,6 +74,14 @@ Use this button to open a new menu window, where you can specify which traffic s
 
 ### Ingame UI ###
 <img align="center" width="1000" height="" src="Result%20images/Images/Ingame%20UI.png">
+```1``` Buttons to controll the turn signal lights.
+```2``` Weather dropdown with 5 available options: sunny day, rainy day, sunrise/sunset, bright night, dark night.
+```3``` Value between 0 and 1, which specifies the rain intensity.
+```4``` Camera icon, showing the current camera mode.
+```5``` Button to return to the main menu.
+```6``` Button to exit the simulation.
+```7``` Button to controll the headbeam lights.
+```8``` UI where the detected traffic signs will be displayed (not implemented yet).
 
 ### Manual Driving Mode ###
 
