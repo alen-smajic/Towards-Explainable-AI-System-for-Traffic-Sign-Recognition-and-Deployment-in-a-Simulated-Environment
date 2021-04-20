@@ -47,5 +47,5 @@ The project is still in development.
 <img align="center" width="1000" height="" src="Result%20images/Sunny%20Day.png">
 <img align="left" width="390" height="" src="Result%20images/Rainy%20Day.png">
 <img align="right" width="390" height="" src="Result%20images/Bright%20Night.png">
-<img align="left" width="390" height="" src="Result%20images/Sunet.png">
+<img align="left" width="390" height="" src="Result%20images/Sunset.png">
 <img align="right" width="390" height="" src="Result%20images/Dark%20Night.png">
