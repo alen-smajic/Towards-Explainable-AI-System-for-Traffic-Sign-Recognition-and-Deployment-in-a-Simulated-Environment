@@ -38,7 +38,29 @@ and make predictions based on predefined concepts. We also introduce a simulatio
 environment for traffic sign recognition, which can be used for model deployment,
 performance benchmarking, data generation and further domain model research.
 
-The project is still in development.
+## Simulation Instructions ##
+### Download and Installation ###
+To use the simulation, please download first the .zip folder from [this google drive link](https://drive.google.com/file/d/19yk97jsQ0Bavtktzb-BuVcJ_DlsRyKAU/view?usp=sharing).
+Once the download has finished, please extract the .zip folder. To start the simulation, please execute the file ```Simulation-based Traffic Sign Recognition Benchmark.exe```, which is located inside the ```STSRB - Executable File``` folder.
+
+### Main Menu Settings ###
+Graphical Settings:
+```Post processing volume```
+```Quality Settings```
+```Terrain Detail Density```
+```Terrain Shape Quality```
+
+Traffic Sign Settings:
+```Traffic Sign Spawning Frequency``` Value between 0 and 1, which specifies the probability that a spawn point will contain a traffic sign (469 possible spawn points). Defines the proportion of traffic signs that are spawned within the scene.
+```Frequency of double Signs``` Value between 0 and 1, which specifies the probability that an active spawn point will contain two traffic signs. Defines the proportion of traffic sign poles that will contain two traffic signs.
+```Frequency of Rotation Variance``` Value between 0 and 1, which specifies the probability that an active traffic sign will contain some rotation around the z-axis. The rotation will be applied randomly in either direction to a maximum of 30°.
+```Frequency of occluded Signs``` Value between 0 and 1, which specifies the probability that an active traffic sign contains sticker objects on its surface. The algorithm spawn between 1 and 5 sticker objects and applies random scale, rotation and textures to the stickers.
+
+Driving Modes:
+```Autonomous Driving``` Makes the car follow a predefined path that was handmade.
+```Manual Driving``` Makes the car drivable by the user himself.
+
+```Generate Dataset``` If this checkbox is active, the simulation will be used to generate a dataset. Please specify a system path, where you want to store the dataset (e.g. C:\Users\alens\Desktop).
 
 ## Tools ## 
 * Python 3
