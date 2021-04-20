@@ -74,3 +74,4 @@ The project is still in development.
 <img align="left" width="390" height="" src="Result%20images/Images/Camera%20Mode%204.png">
 <img align="right" width="390" height="" src="Result%20images/Images/Camera%20Mode%205.png">
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%206.gif">
+<img align="center" width="1000" height="" src="Result%20images/Images/Label%20Creation.png">
