@@ -90,6 +90,12 @@ Use the ```mouse wheel``` to zoom in and out from the scene.
 
 ### Manual Driving Mode ###
 
+```W``` Hold this key to apply motor torque and to move the car forward.
+```S``` Hold this key to apply the reverse gear and to move the car backwards.
+```A``` Hold this to move the car to the left side.
+```D``` Hold this to move the car to the right side.
+```Space``` Hold this to apply braking.
+
 ### Generate Dataset ####
 
 ## Tools ## 
