@@ -100,6 +100,20 @@ Once the download has finished, please extract the .zip folder. To start the sim
 ```Space``` *Hold this to apply braking.*  
 
 ### Generate Dataset ####
+*Inside the 'generate dataset mode' there is no graphical user interface, since the system is taking screenshots of the whole screen. The graphical components have been replaced by the following keys:*    
+```1``` *Press this button to switch to sunny day.*  
+```2``` *Press this button to switch to rainy day.*  
+```3``` *Press this button to switch to sunrise/sunset.*  
+```4``` *Press this button to switch to bright night.*  
+```5``` *Press this button to switch to dark night.*  
+```+``` *Press this button to increase the rain intensity.*  
+```-``` *Press this button to decrease the rain intensity.*  
+```LeftArrow``` *Press this button to turn the left turn signal on.*  
+```RightArrow``` *Press this button to turn the right turn signal on.*  
+```UpArrow``` *Press this button to turn the long beam headlights on.*  
+```DownArrow``` *Press this button to turn the low beam headlights on.*  
+```R``` *Press this button to return to the main menu.*  
+```ESC``` *Press this button to close the simulation.*  
 
 ## Tools ## 
 * Python 3
