@@ -41,6 +41,12 @@ performance benchmarking, data generation and further domain model research.
 The project is still in development.
 
 ## Tools ## 
+* Python 3
+* PyTorch Framework
+* OpenCV
+* C#
+* Unity3D
+* Blender
 
 ## Results ##
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Main%20Menu.gif">
