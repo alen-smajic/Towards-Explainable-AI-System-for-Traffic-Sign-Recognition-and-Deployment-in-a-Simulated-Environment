@@ -64,13 +64,20 @@ Once the download has finished, please extract the .zip folder. To start the sim
 ```Generate Dataset``` If this checkbox is active, the simulation will be used to generate a dataset. Please specify a system path, where you want to store the dataset (e.g. C:\Users\alens\Desktop).  
 ```Image Width``` Specifies the width dimension for the generated dataset.  
 ```Image Height``` Specifies the height dimension for the generated dataset.  
-```Screenshot rate``` Specifies the rate in seconds in which the simulation makes a screenshot of the environmental scene.
+```Screenshot rate``` Specifies the rate in seconds in which the simulation makes a screenshot of the environmental scene.  
 
 **PRESS TO START:**  
 Use this button to start the simulation.
 
 **ACTIVE SIGNS:**  
 Use this button to open a new menu window, where you can specify which traffic signs should be contained within the simulation.
+
+### Ingame UI ###
+<img align="center" width="1000" height="" src="Result%20images/Images/Ingame%20UI.png">
+
+### Manual Driving Mode ###
+
+### Generate Dataset ####
 
 ## Tools ## 
 * Python 3
