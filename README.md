@@ -73,7 +73,8 @@ Use this button to start the simulation.
 Use this button to open a new menu window, where you can specify which traffic signs should be contained within the simulation.
 
 ### Ingame UI ###
-<img align="center" width="1000" height="" src="Result%20images/Images/Ingame%20UI.png">
+<img align="center" width="1000" height="" src="Result%20images/Images/Ingame%20UI.png">  
+
 ```1``` Buttons to controll the turn signal lights.  
 ```2``` Weather dropdown with 5 available options: sunny day, rainy day, sunrise/sunset, bright night, dark night.  
 ```3``` Value between 0 and 1, which specifies the rain intensity.  
