@@ -51,50 +51,50 @@ Once the download has finished, please extract the .zip folder. To start the sim
 ```Terrain Shape Quality```  
 
 **Traffic Sign Settings:**    
-```Traffic Sign Spawning Frequency``` Value between 0 and 1, which specifies the probability that a spawn point will contain a traffic sign (469 possible spawn points). Defines the proportion of traffic signs that are spawned within the scene.  
-```Frequency of double Signs``` Value between 0 and 1, which specifies the probability that an active spawn point will contain two traffic signs. Defines the proportion of traffic sign poles that will contain two traffic signs.  
-```Frequency of Rotation Variance``` Value between 0 and 1, which specifies the probability that an active traffic sign will contain some rotation around the z-axis. The rotation will be applied randomly in either direction to a maximum of 30°.  
-```Frequency of occluded Signs``` Value between 0 and 1, which specifies the probability that an active traffic sign contains sticker objects on its surface. The algorithm spawns between 1 and 5 sticker objects and applies random scale, rotation and textures to the stickers.  
+```Traffic Sign Spawning Frequency``` *Value between 0 and 1, which specifies the probability that a spawn point will contain a traffic sign (469 possible spawn points). Defines the proportion of traffic signs that are spawned within the scene.  * 
+```Frequency of double Signs``` *Value between 0 and 1, which specifies the probability that an active spawn point will contain two traffic signs. Defines the proportion of traffic sign poles that will contain two traffic signs.  *
+```Frequency of Rotation Variance``` *Value between 0 and 1, which specifies the probability that an active traffic sign will contain some rotation around the z-axis. The rotation will be applied randomly in either direction to a maximum of 30°.  *
+```Frequency of occluded Signs``` *Value between 0 and 1, which specifies the probability that an active traffic sign contains sticker objects on its surface. The algorithm spawns between 1 and 5 sticker objects and applies random scale, rotation and textures to the stickers.  *
 
 **Driving Modes:**   
-```Autonomous Driving``` Makes the car follow a predefined path that was handmade.  
-```Manual Driving``` Makes the car drivable by the user himself.  
+```Autonomous Driving``` *Makes the car follow a predefined path that was handmade.  *
+```Manual Driving``` *Makes the car drivable by the user himself.  *
 
 **Generate Dataset:**  
-```Generate Dataset``` If this checkbox is active, the simulation will be used to generate a dataset. Please specify a system path, where you want to store the dataset (e.g. C:\Users\alens\Desktop).  
-```Image Width``` Specifies the width dimension for the generated dataset.  
-```Image Height``` Specifies the height dimension for the generated dataset.  
-```Screenshot rate``` Specifies the rate in seconds in which the simulation makes a screenshot of the environmental scene.  
+```Generate Dataset``` *If this checkbox is active, the simulation will be used to generate a dataset. Please specify a system path, where you want to store the dataset (e.g. C:\Users\alens\Desktop).  *
+```Image Width``` *Specifies the width dimension for the generated dataset.  *
+```Image Height``` *Specifies the height dimension for the generated dataset.  *
+```Screenshot rate``` *Specifies the rate in seconds in which the simulation makes a screenshot of the environmental scene.  *
 
 **PRESS TO START:**  
-Use this button to start the simulation.
+*Use this button to start the simulation.  *
 
 **ACTIVE SIGNS:**  
-Use this button to open a new menu window, where you can specify which traffic signs should be spawned inside the simulation.
+*Use this button to open a new menu window, where you can specify which traffic signs should be spawned inside the simulation.  *
 
 ### Ingame UI ###
 <img align="center" width="1000" height="" src="Result%20images/Images/Ingame%20UI.png">  
 
-```1``` Buttons to controll the turn signal lights.  
-```2``` Weather dropdown with 5 available options: sunny day, rainy day, sunrise/sunset, bright night, dark night.  
-```3``` Value between 0 and 1, which specifies the rain intensity.  
-```4``` Camera icon, showing the current camera mode.  
-```5``` Button to return to the main menu.  
-```6``` Button to exit the simulation.  
-```7``` Button to controll the headbeam lights.  
-```8``` UI where the detected traffic signs will be displayed (not implemented yet).  
+```1``` *Buttons to controll the turn signal lights.  *
+```2``` *Weather dropdown with 5 available options: sunny day, rainy day, sunrise/sunset, bright night, dark night.  *
+```3``` *Value between 0 and 1, which specifies the rain intensity.  *
+```4``` *Camera icon, showing the current camera mode.  *
+```5``` *Button to return to the main menu.  *
+```6``` *Button to exit the simulation.  *
+```7``` *Button to controll the headbeam lights.  *
+```8``` *UI where the detected traffic signs will be displayed (not implemented yet).  *
 
-Use the ```C``` key to switch between the camera modes.  
-Hold the ```left mouse button``` and move the mouse to move the camera around.  
-Use the ```mouse wheel``` to zoom in and out from the scene.  
+*Use the* ```C``` *key to switch between the camera modes.  *
+*Hold the* ```left mouse button``` *and move the mouse to move the camera around.  *
+*Use the* ```mouse wheel``` *to zoom in and out from the scene.  *
 
 ### Manual Driving Mode ###
 
-```W``` Hold this key to apply motor torque and to move the car forward.  
-```S``` Hold this key to apply the reverse gear and to move the car backwards.  
-```A``` Hold this to move the car to the left side.  
-```D``` Hold this to move the car to the right side.  
-```Space``` Hold this to apply braking.  
+```W``` *Hold this key to apply motor torque and to move the car forward.  *
+```S``` *Hold this key to apply the reverse gear and to move the car backwards.  *
+```A``` *Hold this to move the car to the left side.  *
+```D``` *Hold this to move the car to the right side.  *
+```Space``` *Hold this to apply braking.  *
 
 ### Generate Dataset ####
 
