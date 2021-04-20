@@ -51,11 +51,8 @@ The project is still in development.
 
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Main%20Menu.gif">
 
-<img align="center" width="1000" height="" src="Result%20images/Gifs/Car.gif">
-
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%202.gif">
 
-<img align="center" width="1000" height="" src="Result%20images/Gifs/Car%203.gif">
 
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%204.gif">
 
@@ -68,8 +65,10 @@ The project is still in development.
 <img align="left" width="390" height="" src="Result%20images/Images/Sunset.png">
 <img align="right" width="390" height="" src="Result%20images/Images/Dark%20Night.png">
 
+<img align="center" width="1000" height="" src="Result%20images/Gifs/Car.gif">
 <img align="left" width="390" height="" src="Result%20images/Images/Camera%20Mode%201.png">
 <img align="right" width="390" height="" src="Result%20images/Images/Camera%20Mode%201(2).png">
+<img align="center" width="1000" height="" src="Result%20images/Gifs/Car%203.gif">
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%205.gif">
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%206.gif">
 <img align="left" width="390" height="" src="Result%20images/Images/Camera%20Mode%202.png">
