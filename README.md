@@ -44,7 +44,9 @@ performance benchmarking, data generation and further domain model research.
 Once the download has finished, please extract the .zip folder. To start the simulation, please execute the file* ```Simulation-based Traffic Sign Recognition Benchmark.exe```*, which is located inside the* ```STSRB - Executable File``` *folder.*
 
 ### Main Menu Settings ###
+
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Main%20Menu.gif">
+
 **Graphical Settings:**  
 ```Post processing volume```  
 ```Quality Settings```  
