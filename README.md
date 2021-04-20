@@ -47,6 +47,10 @@ The project is still in development.
 
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%202.gif">
 
+<img align="center" width="1000" height="" src="Result%20images/Gifs/Car%203.gif">
+
+<img align="center" width="1000" height="" src="Result%20images/Gifs/Car%204.gif">
+
 <img align="center" width="1000" height="" src="Result%20images/Images/Sunny%20Day.png">
 <img align="left" width="390" height="" src="Result%20images/Images/Rainy%20Day.png">
 <img align="right" width="390" height="" src="Result%20images/Images/Bright%20Night.png">
