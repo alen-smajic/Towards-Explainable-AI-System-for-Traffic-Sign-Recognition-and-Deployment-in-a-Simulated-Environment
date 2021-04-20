@@ -20,7 +20,7 @@
  * [Here](https://drive.google.com/file/d/19yk97jsQ0Bavtktzb-BuVcJ_DlsRyKAU/view?usp=sharing) you can download the STSRB (Simulation-based Traffic Sign Recognition Benchmark)
   
 ## Project Description ##
-<img align="center" width="1000" height="" src="Result%20images/Images/Title%20page.png">
+<img align="center" width="1000" height="" src="Result%20images/Images/Title%20Page.png">
 
 Recent advances in Machine Learning are pushing the boundaries of real world AI applications
 and are becoming more and more integrated in our daily lives. As research
