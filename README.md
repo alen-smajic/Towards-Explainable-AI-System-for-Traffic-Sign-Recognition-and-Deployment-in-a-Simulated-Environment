@@ -42,10 +42,20 @@ The project is still in development.
 
 ## Results ##
 <img align="center" width="1000" height="" src="Result%20images/Main%20Menu.gif">
+
 <img align="center" width="1000" height="" src="Result%20images/Car.gif">
+
 <img align="center" width="1000" height="" src="Result%20images/Car%202.gif">
+
 <img align="center" width="1000" height="" src="Result%20images/Sunny%20Day.png">
 <img align="left" width="390" height="" src="Result%20images/Rainy%20Day.png">
 <img align="right" width="390" height="" src="Result%20images/Bright%20Night.png">
 <img align="left" width="390" height="" src="Result%20images/Sunset.png">
 <img align="right" width="390" height="" src="Result%20images/Dark%20Night.png">
+
+<img align="left" width="390" height="" src="Result%20images/Camera%20Mode%201.png">
+<img align="right" width="390" height="" src="Result%20images/Camera%20Mode%201(2).png">
+<img align="left" width="390" height="" src="Result%20images/Camera%20Mode%202.png">
+<img align="right" width="390" height="" src="Result%20images/Camera%20Mode%203.png">
+<img align="left" width="390" height="" src="Result%20images/Camera%20Mode%204.png">
+<img align="right" width="390" height="" src="Result%20images/Camera%20Mode%205.png">
