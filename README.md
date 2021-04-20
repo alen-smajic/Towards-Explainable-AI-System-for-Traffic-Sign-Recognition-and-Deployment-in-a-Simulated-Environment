@@ -44,23 +44,33 @@ To use the simulation, please download first the .zip folder from [this google d
 Once the download has finished, please extract the .zip folder. To start the simulation, please execute the file ```Simulation-based Traffic Sign Recognition Benchmark.exe```, which is located inside the ```STSRB - Executable File``` folder.
 
 ### Main Menu Settings ###
-Graphical Settings:  
+**Graphical Settings:**  
 ```Post processing volume```  
 ```Quality Settings```  
 ```Terrain Detail Density```  
 ```Terrain Shape Quality```  
 
-Traffic Sign Settings:  
+**Traffic Sign Settings:**    
 ```Traffic Sign Spawning Frequency``` Value between 0 and 1, which specifies the probability that a spawn point will contain a traffic sign (469 possible spawn points). Defines the proportion of traffic signs that are spawned within the scene.  
 ```Frequency of double Signs``` Value between 0 and 1, which specifies the probability that an active spawn point will contain two traffic signs. Defines the proportion of traffic sign poles that will contain two traffic signs.  
 ```Frequency of Rotation Variance``` Value between 0 and 1, which specifies the probability that an active traffic sign will contain some rotation around the z-axis. The rotation will be applied randomly in either direction to a maximum of 30°.  
 ```Frequency of occluded Signs``` Value between 0 and 1, which specifies the probability that an active traffic sign contains sticker objects on its surface. The algorithm spawn between 1 and 5 sticker objects and applies random scale, rotation and textures to the stickers.  
 
-Driving Modes:  
+**Driving Modes:**   
 ```Autonomous Driving``` Makes the car follow a predefined path that was handmade.  
 ```Manual Driving``` Makes the car drivable by the user himself.  
 
+**Generate Dataset:**  
 ```Generate Dataset``` If this checkbox is active, the simulation will be used to generate a dataset. Please specify a system path, where you want to store the dataset (e.g. C:\Users\alens\Desktop).  
+```Image Width``` Specifies the width dimension for the generated dataset.  
+```Image Height``` Specifies the height dimension for the generated dataset.  
+```Screenshot rate``` Specifies the rate in seconds in which the simulation makes a screenshot of the environmental scene.
+
+**PRESS TO START:**  
+Use this button to start the simulation.
+
+**ACTIVE SIGNS:**  
+Use this button to open a new menu window, where you can specify which traffic signs should be contained within the simulation.
 
 ## Tools ## 
 * Python 3
