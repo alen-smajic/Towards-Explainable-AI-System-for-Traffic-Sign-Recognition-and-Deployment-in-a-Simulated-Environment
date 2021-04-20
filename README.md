@@ -44,3 +44,8 @@ The project is still in development.
 <img align="center" width="1000" height="" src="Result%20images/Main%20Menu.gif">
 <img align="center" width="1000" height="" src="Result%20images/Car.gif">
 <img align="center" width="1000" height="" src="Result%20images/Car%202.gif">
+<img align="center" width="1000" height="" src="Sunny%20Day.png">
+<img align="left" width="390" height="" src="Rainy%20Day.png">
+<img align="right" width="390" height="" src="Bright%20Night.png">
+<img align="left" width="390" height="" src="Sunet.png">
+<img align="right" width="390" height="" src="Dark%20Night.png">
