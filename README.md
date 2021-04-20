@@ -1,4 +1,5 @@
 <img align="center" width="1000" height="" src="Result%20images/Images/Title%20Page.png">
+
 # Towards Explainable AI Systems for Traffic Sign Recognition and Deployment in a Simulated Environment (Fall 2020)
 
 ## General Information
