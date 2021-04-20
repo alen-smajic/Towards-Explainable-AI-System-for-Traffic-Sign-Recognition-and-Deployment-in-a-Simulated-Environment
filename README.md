@@ -40,8 +40,8 @@ performance benchmarking, data generation and further domain model research.
 
 ## Simulation Instructions ##
 ### Download and Installation ###
-To use the simulation, please download first the .zip folder from [this google drive link](https://drive.google.com/file/d/19yk97jsQ0Bavtktzb-BuVcJ_DlsRyKAU/view?usp=sharing).
-Once the download has finished, please extract the .zip folder. To start the simulation, please execute the file ```Simulation-based Traffic Sign Recognition Benchmark.exe```, which is located inside the ```STSRB - Executable File``` folder.
+*To use the simulation, please download first the .zip folder from [this google drive link](https://drive.google.com/file/d/19yk97jsQ0Bavtktzb-BuVcJ_DlsRyKAU/view?usp=sharing).
+Once the download has finished, please extract the .zip folder. To start the simulation, please execute the file* ```Simulation-based Traffic Sign Recognition Benchmark.exe```*, which is located inside the* ```STSRB - Executable File``` *folder.*
 
 ### Main Menu Settings ###
 **Graphical Settings:**  
@@ -54,7 +54,7 @@ Once the download has finished, please extract the .zip folder. To start the sim
 ```Traffic Sign Spawning Frequency``` Value between 0 and 1, which specifies the probability that a spawn point will contain a traffic sign (469 possible spawn points). Defines the proportion of traffic signs that are spawned within the scene.  
 ```Frequency of double Signs``` Value between 0 and 1, which specifies the probability that an active spawn point will contain two traffic signs. Defines the proportion of traffic sign poles that will contain two traffic signs.  
 ```Frequency of Rotation Variance``` Value between 0 and 1, which specifies the probability that an active traffic sign will contain some rotation around the z-axis. The rotation will be applied randomly in either direction to a maximum of 30°.  
-```Frequency of occluded Signs``` Value between 0 and 1, which specifies the probability that an active traffic sign contains sticker objects on its surface. The algorithm spawn between 1 and 5 sticker objects and applies random scale, rotation and textures to the stickers.  
+```Frequency of occluded Signs``` Value between 0 and 1, which specifies the probability that an active traffic sign contains sticker objects on its surface. The algorithm spawns between 1 and 5 sticker objects and applies random scale, rotation and textures to the stickers.  
 
 **Driving Modes:**   
 ```Autonomous Driving``` Makes the car follow a predefined path that was handmade.  
@@ -70,7 +70,7 @@ Once the download has finished, please extract the .zip folder. To start the sim
 Use this button to start the simulation.
 
 **ACTIVE SIGNS:**  
-Use this button to open a new menu window, where you can specify which traffic signs should be contained within the simulation.
+Use this button to open a new menu window, where you can specify which traffic signs should be spawned inside the simulation.
 
 ### Ingame UI ###
 <img align="center" width="1000" height="" src="Result%20images/Images/Ingame%20UI.png">  
@@ -90,11 +90,11 @@ Use the ```mouse wheel``` to zoom in and out from the scene.
 
 ### Manual Driving Mode ###
 
-```W``` Hold this key to apply motor torque and to move the car forward.
-```S``` Hold this key to apply the reverse gear and to move the car backwards.
-```A``` Hold this to move the car to the left side.
-```D``` Hold this to move the car to the right side.
-```Space``` Hold this to apply braking.
+```W``` Hold this key to apply motor torque and to move the car forward.  
+```S``` Hold this key to apply the reverse gear and to move the car backwards.  
+```A``` Hold this to move the car to the left side.  
+```D``` Hold this to move the car to the right side.  
+```Space``` Hold this to apply braking.  
 
 ### Generate Dataset ####
 
