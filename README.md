@@ -84,9 +84,9 @@ Use this button to open a new menu window, where you can specify which traffic s
 ```7``` Button to controll the headbeam lights.  
 ```8``` UI where the detected traffic signs will be displayed (not implemented yet).  
 
-Use the ```C``` key to switch between the camera modes.
-Hold the ```left mouse button``` and move the mouse to move the camera around.
-Use the ```mouse wheel``` to zoom in and out from the scene.
+Use the ```C``` key to switch between the camera modes.  
+Hold the ```left mouse button``` and move the mouse to move the camera around.  
+Use the ```mouse wheel``` to zoom in and out from the scene.  
 
 ### Manual Driving Mode ###
 
