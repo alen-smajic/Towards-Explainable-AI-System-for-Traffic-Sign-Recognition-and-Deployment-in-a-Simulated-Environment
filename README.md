@@ -122,6 +122,7 @@ Once the download has finished, please extract the .zip folder. To start the sim
 *To execute the script you need to specify the following arguments:*  
 * ```-tp``` *Target path where the dataset folder is located.*  
 * ```-bf``` *Bounding box format. Possible values: corner, middle. Default: corner.*  
+
 Corner bounding box format = *x1, y1 coordinates of the upper left corner of the bounding box. x2, y2 coordinates of the lower right corner of the bounding box.*  
 Middle bounding box format = *x, y coordinates of the center point of the bounding box. w, h are the width and height values in pixels for the bounding box.*  
 Example execution: ```python3 Create_Labels.py -tp C:\Users\alens\Desktop -bf middle```  
