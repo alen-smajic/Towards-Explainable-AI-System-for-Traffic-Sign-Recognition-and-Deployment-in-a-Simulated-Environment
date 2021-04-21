@@ -115,7 +115,7 @@ Once the download has finished, please extract the .zip folder. To start the sim
 ```R``` *Press this button to return to the main menu.*  
 ```ESC``` *Press this button to close the simulation.*  
 
-<img align="center" width="1000" height="" src="Result%20images/Images/Data%20Generation.png">  
+<img align="center" width="1000" height="" src="Result%20images/Images/Data%20Generation%201.png">  
 
 *Once the simulation is started in the generate dataset mode, it will create two folders ("Sample Data" and "Target Data") at the previosly specified location (e.g. C:\Users\alens\Desktop). The system will stop every few seconds to take 2 screenshots and store them inside the two folders.*  
 *To extract the labels from the target data folder you need to execute the ```Create_Labels.py``` script located in ```Towards-Explainable-AI-System-for-Traffic-Sign-Recognition-and-Deployment-in-a-Simulated-Environment\Scripts\Dataset Generation\Create_Labels.py```.*  
