@@ -117,12 +117,15 @@ Once the download has finished, please extract the .zip folder. To start the sim
 
 <img align="center" width="1000" height="" src="Result%20images/Images/Data%20Generation%201.png">  
 
-*Once the simulation is started in the generate dataset mode, it will create two folders ("Sample Data" and "Target Data") at the previosly specified location (e.g. C:\Users\alens\Desktop). The system will stop every few seconds to take 2 screenshots and store them inside the two folders.*  
+*Once the simulation is started in the generate dataset mode, it will create two folders ("Sample Data" and "Target Data") at the previosly specified location (e.g. C:\Users\alens\Desktop). The system will stop every few seconds to take 2 screenshots and store them inside the two folders. The first screenshot will be the normal environmental scene, the second screenshot will contain traffic signs with pink textures which will be used to threshold the color to find the bounding box labels.*    
 *To extract the labels from the target data folder you need to execute the ```Create_Labels.py``` script located in ```Towards-Explainable-AI-System-for-Traffic-Sign-Recognition-and-Deployment-in-a-Simulated-Environment\Scripts\Dataset Generation\Create_Labels.py```.*  
 *To execute the script you need to specify the following arguments:*  
 * ```-tp``` *Target path where the dataset folder is located.*  
 * ```-bf``` *Bounding box format. Possible values: corner, middle. Default: corner.*  
-Example execution: ```python3 Create_Labels.py -tp C:\Users\alens\Desktop -bf middle```
+Corner bounding box format = *x1, y1 coordinates of the upper left corner of the bounding box. x2, y2 coordinates of the lower right corner of the bounding box.*  
+Middle bounding box format = *x, y coordinates of the center point of the bounding box. w, h are the width and height values in pixels for the bounding box.*  
+Example execution: ```python3 Create_Labels.py -tp C:\Users\alens\Desktop -bf middle```  
+*Once the script is finished, it will create a json file with the labels.*    
 
 <img align="center" width="1000" height="" src="Result%20images/Images/Data%20Generation%202.png">  
 
