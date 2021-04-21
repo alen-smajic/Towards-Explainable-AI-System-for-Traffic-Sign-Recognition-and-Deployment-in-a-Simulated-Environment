@@ -124,6 +124,8 @@ Once the download has finished, please extract the .zip folder. To start the sim
 * ```-bf``` *Bounding box format. Possible values: corner, middle. Default: corner.*  
 Example execution: ```python3 Create_Labels.py -tp C:\Users\alens\Desktop -bf middle```
 
+<img align="center" width="1000" height="" src="Result%20images/Images/Data%20Generation%202.png">  
+
 ## Tools ## 
 * Python 3
 * PyTorch Framework
