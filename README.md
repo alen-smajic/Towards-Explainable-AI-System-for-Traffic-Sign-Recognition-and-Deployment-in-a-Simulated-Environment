@@ -20,9 +20,6 @@
 ## Publications ##
  * [ResearchGate](https://www.researchgate.net/publication/350975491_Towards_Explainable_AI_Systems_for_Traffic_Sign_Recognition_and_Deployment_in_a_Simulated_Environment)
  * [Here](https://drive.google.com/file/d/19yk97jsQ0Bavtktzb-BuVcJ_DlsRyKAU/view?usp=sharing) you can download the full version of the simulation
-
-##  Disclaimer ##
-Copyright © 2021 Alen Smajic & Pascal Fischer. All rights reserved.
   
 ## Project Description ##
 <img align="center" width="1000" height="" src="Result%20images/Images/System%20Design.png">
@@ -166,3 +163,6 @@ Example execution: ```python3 Create_Labels.py -tp C:\Users\alens\Desktop -bf mi
 <img align="left" width="390" height="" src="Result%20images/Images/Camera%20Mode%204.png">
 <img align="right" width="390" height="" src="Result%20images/Images/Camera%20Mode%205.png">
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%206.gif">
+
+##  Disclaimer ##
+Copyright © 2021 Alen Smajic & Pascal Fischer. All rights reserved.
