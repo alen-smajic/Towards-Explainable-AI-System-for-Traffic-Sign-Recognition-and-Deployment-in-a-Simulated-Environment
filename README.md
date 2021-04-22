@@ -21,6 +21,7 @@ Copyright © 2021 Alen Smajic & Pascal Fischer. All rights reserved.
 
 ## Publications ##
  * [ResearchGate](https://www.researchgate.net/publication/350975491_Towards_Explainable_AI_Systems_for_Traffic_Sign_Recognition_and_Deployment_in_a_Simulated_Environment)
+ * [YouTube](https://www.youtube.com/watch?v=WhestlYNlgA&t=1s)
  * [Here](https://drive.google.com/file/d/19yk97jsQ0Bavtktzb-BuVcJ_DlsRyKAU/view?usp=sharing) you can download the full version of the simulation
   
 ## Project Description ##
