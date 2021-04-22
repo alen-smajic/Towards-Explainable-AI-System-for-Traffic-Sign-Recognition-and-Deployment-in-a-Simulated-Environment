@@ -86,7 +86,7 @@ Once the download has finished, please extract the .zip folder. To start the sim
 ```4``` *Camera icon, showing the current camera mode.*  
 ```5``` *Button to return to the main menu.*  
 ```6``` *Button to exit the simulation.*  
-```7``` *Button to controll the headbeam lights.*  
+```7``` *Button to controll the head beam lights.*  
 ```8``` *UI where the detected traffic signs will be displayed (not implemented yet).*  
 
 *Use the* ```C``` *key to switch between the camera modes.*  
@@ -119,8 +119,8 @@ Once the download has finished, please extract the .zip folder. To start the sim
 
 <img align="center" width="1000" height="" src="Result%20images/Images/Data%20Generation%201.png">  
 
-*Once the simulation is started in the generate dataset mode, it will create two folders ("Sample Data" and "Target Data") at the previosly specified location (e.g. C:\Users\alens\Desktop). The system will stop every few seconds to take 2 screenshots and store them inside the two folders. The first screenshot will be the normal environmental scene, the second screenshot will contain traffic signs with pink textures which will be used to threshold the color to find the bounding box labels.*    
-*To extract the labels from the target data folder you need to execute the ```Create_Labels.py``` script located in ```Towards-Explainable-AI-System-for-Traffic-Sign-Recognition-and-Deployment-in-a-Simulated-Environment\Scripts\Dataset Generation\Create_Labels.py```.*  
+*Once the simulation is started in the 'generate dataset mode', it will create two folders ("Sample Data" and "Target Data") at the previosly specified location (e.g. C:\Users\alens\Desktop). The system will stop every few seconds to take 2 screenshots and store them inside the two folders. The first screenshot will be the normal environmental scene (upper left figure), the second screenshot will contain traffic signs with pink textures (upper right figure) which will be used to threshold the color to find the bounding box labels.*    
+*To extract the labels from the 'Target Data' folder you need to execute the ```Create_Labels.py``` script located in ```Towards-Explainable-AI-System-for-Traffic-Sign-Recognition-and-Deployment-in-a-Simulated-Environment\Scripts\Dataset Generation\Create_Labels.py```.*  
 *To execute the script you need to specify the following arguments:*  
 * ```-tp``` *Target path where the dataset folder is located.*  
 * ```-bf``` *Bounding box format. Possible values: corner, middle. Default: corner.*  
