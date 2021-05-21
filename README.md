@@ -17,8 +17,6 @@
 * Pascal Fischer
 * Alen Smajic
 
-Copyright © 2021 Alen Smajic & Pascal Fischer. All rights reserved.
-
 ## Publications ##
  * [ResearchGate](https://www.researchgate.net/publication/350975491_Towards_Explainable_AI_Systems_for_Traffic_Sign_Recognition_and_Deployment_in_a_Simulated_Environment)
  * [YouTube](https://www.youtube.com/watch?v=WhestlYNlgA&t=1s)
@@ -171,6 +169,3 @@ Example execution: ```python3 Create_Labels.py -tp C:\Users\alens\Desktop -bf mi
 <img align="left" width="390" height="" src="Result%20images/Images/Camera%20Mode%204.png">
 <img align="right" width="390" height="" src="Result%20images/Images/Camera%20Mode%205.png">
 <img align="center" width="1000" height="" src="Result%20images/Gifs/Car%206.gif">
-
-##  Disclaimer ##
-Copyright © 2021 Alen Smajic & Pascal Fischer. All rights reserved.
